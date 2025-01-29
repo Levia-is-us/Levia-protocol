@@ -1,0 +1,8 @@
+# AI/ML
+openai>=1.59.7
+
+requests>=2.26.0
+python-dotenv==1.0.1
+
+pytest>=6.2.5
+flake8>=3.9.2
